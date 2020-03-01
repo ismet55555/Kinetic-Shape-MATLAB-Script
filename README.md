@@ -1,5 +1,6 @@
 # Kinetic Shape MATLAB Script
 
-The two MATLAB scripts create a 2D and 3D kinetic shape, respectively.
+- 2D Kinetic Shape MATLAB Script: [Kinetic_Shape_2D.m](Kinetic_Shape_2D.m)
+- 3D Kinetic Shape MATLAB Script: [Kinetic_Shape_3D.m](Kinetic_Shape_3D.m)
 
 More resources on what a kinetic shape actually is check out the sub-directory: `Kinetic Shape Publications`
